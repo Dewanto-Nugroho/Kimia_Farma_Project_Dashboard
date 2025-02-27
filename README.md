@@ -18,7 +18,8 @@ Before Designing dashboard, I need to create datamart from raw data , consisting
 
 After designing Datamart from raw data, I built Sales Performance Dashboard based on the aggregate tables previously created.
 
-![image](https://github.com/Dewanto-Nugroho/Kimia_Farma_Project_Dashboard/assets/153371950/b1f6b1c7-1d12-47b6-bdae-1959a44182e5)
+![image](https://github.com/user-attachments/assets/58e143ff-d619-4d7e-9df7-259ec114d8b3)
+
 
 From the dashboard, some insights can be seen as follows:
 
